@@ -1,6 +1,6 @@
 ## Rabeed's Profile
 
-<img src="https://raw.githubusercontent.com/s3930700/s3930700.github.io/main/ProfilePic.png" width="400" height="400">
+![Profile Pic](https://raw.githubusercontent.com/s3930700/s3930700.github.io/main/ProfilePic.png)
 
 ### Personal Info
 
