@@ -1,6 +1,6 @@
 ## Rabeed's Profile
 
-![Profile Pic](https://raw.githubusercontent.com/s3930700/s3930700.github.io/main/Profile%20Pic.jpg)
+![Profile Pic](Profile%20Pic.jpg)
 
 ### Personal Info
 Name: Rabeed Khan
