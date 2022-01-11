@@ -1,6 +1,6 @@
 ## Rabeed's Profile
 
-<img align="left" width="200" height="200" src=https://raw.githubusercontent.com/s3930700/s3930700.github.io/main/ProfilePic.png>
+<img align="left" width="200" height="200" src=ProfilePic.png>
 
 ### Personal Info
 
@@ -34,35 +34,3 @@ As well as previous experience within a growing start-up, along with experience 
 
 ### Personality Tests
 Based off these results, it seems that my personality is somewhat sitting on the fence between being an introvert and an extravert. I tend to be assertive with my behavior and apparently have a hard time agreeing to other views. In my personal opinion, I feel I am rather open minded so I guess that is an area of the test that may be a bit hit or miss in terms of the results. The Big Five test however, did give me a higher score on “Conscientious” so that in a sense does marry the previous comments together. Within a team environment, I know my assertiveness can get in the way, but my openness does assist in keeping efficient within that environment. As a result, when forming a team my primary focus would be to work with someone who is also open minded so that my assertiveness does not take over. 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s3930700/s3930700.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
