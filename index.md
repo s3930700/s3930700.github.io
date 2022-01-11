@@ -1,6 +1,6 @@
 ## Rabeed's Profile
 
-<img align="left" width="100" height="100" src=https://raw.githubusercontent.com/s3930700/s3930700.github.io/main/ProfilePic.jpg)>
+<img align="left" width="100" height="100" src=https://raw.githubusercontent.com/s3930700/s3930700.github.io/main/ProfilePic.png>
 ### Personal Info
 Name: Rabeed Khan
 
