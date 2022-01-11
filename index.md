@@ -34,3 +34,5 @@ As well as previous experience within a growing start-up, along with experience 
 
 ### Personality Tests
 Based off these results, it seems that my personality is somewhat sitting on the fence between being an introvert and an extravert. I tend to be assertive with my behavior and apparently have a hard time agreeing to other views. In my personal opinion, I feel I am rather open minded so I guess that is an area of the test that may be a bit hit or miss in terms of the results. The Big Five test however, did give me a higher score on “Conscientious” so that in a sense does marry the previous comments together. Within a team environment, I know my assertiveness can get in the way, but my openness does assist in keeping efficient within that environment. As a result, when forming a team my primary focus would be to work with someone who is also open minded so that my assertiveness does not take over. 
+
+[16personalities Results](16personalities.png) [VARK Questionnaire Results](VARK) [Big Five Results]()
