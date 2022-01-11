@@ -1,6 +1,6 @@
 ## Rabeed's Profile
 
-![Profile Pic](ProfilePic.png)
+![Profile Pic](ProfilePic.png =400x400)
 
 ### Personal Info
 
