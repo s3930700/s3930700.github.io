@@ -2,6 +2,7 @@
 
 <img align="left" width="200" height="200" src=https://raw.githubusercontent.com/s3930700/s3930700.github.io/main/ProfilePic.png>
 ### Personal Info
+
 Name: Rabeed Khan
 
 Student Number: S3930700
