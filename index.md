@@ -1,6 +1,6 @@
 ## Rabeed's Profile
 
-<img align="left" width="200" height="200" src=ProfilePic.png>
+![Profile Pic](ProfilePic.png)
 
 ### Personal Info
 
