@@ -1,6 +1,6 @@
 ## Rabeed's Profile
 
-![Image](Profile Pic.jpg)
+![Image](assets/images/Profile Pic.jpg)
 
 ### Personal Info
 Name: Rabeed Khan
