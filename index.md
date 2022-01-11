@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Rabeed's Profile
 
-You can use the [editor on GitHub](https://github.com/s3930700/s3930700.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Personal Info
+Name: Rabeed Khan
+Student Number: S3930700
+Email: s3930700@student.rmit.edu.au
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I was born in Bangladesh and moved to Australia when I was 8 years old. At the time I primarily spoke Bengali but was rather fluent in English too as I had grown up playing games and watching films that were in English. It was a also a requirement at the school I attended to speak English at all times as well so that we could learn the language easier so that definitely helped with the transition as well. I still speak Bengali with family as well as English. So far to date I have completed my high school studies here, graduating from Macquarie Fields High School after transferring, and currently undergoing my tertiary studies. Aside, from that I really enjoy gaming during my spare time, a good single player game can take up hours of my time on a good day. I also love cars as well, and the feeling of driving, something that I can’t quite put into words.
 
 ### Markdown
 
