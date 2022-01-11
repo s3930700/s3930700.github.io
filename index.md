@@ -38,7 +38,8 @@ Based off these results, it seems that my personality is somewhat sitting on the
 ![16personalities Results](https://raw.githubusercontent.com/s3930700/s3930700.github.io/main/16personalities.png) ![VARK Questionnaire Results](https://raw.githubusercontent.com/s3930700/s3930700.github.io/main/VARK%20Questionnaire.png) ![Big Five Results](https://raw.githubusercontent.com/s3930700/s3930700.github.io/main/Big%20Five%20Personality%20Test.png)
 
 References:
--	SEEK. 2022. [online] Available at: <https://www.seek.com.au/job/55456065?type=standard#solHash=52efaf362224e6f6294a1e9f253ab7e3c85c94a0> [Accessed 11 January 2022].
--	16personalities.com. 2022. Free personality test, type descriptions, relationship and career advice | 16Personalities. [online] Available at: <https://www.16personalities.com/> [Accessed 11 January 2022].
+-	16personalities.com. 2022. Free personality test, type descriptions, relationship and career advice - 16Personalities. [online] Available at: <https://www.16personalities.com/> [Accessed 11 January 2022].
 -	VARK - A Guide to Learning Styles. 2022. VARK - A Guide to Learning Styles. [online] Available at: <https://vark-learn.com/> [Accessed 11 January 2022].
 -	Openpsychometrics.org. 2022. Big Five Personality Test. [online] Available at: <https://openpsychometrics.org/tests/IPIP-BFFM/> [Accessed 11 January 2022].
+-	SEEK. 2022. [online] Available at: <https://www.seek.com.au/job/55456065?type=standard#solHash=52efaf362224e6f6294a1e9f253ab7e3c85c94a0> [Accessed 11 January 2022].
+-	
